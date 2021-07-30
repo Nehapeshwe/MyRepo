@@ -7,7 +7,7 @@ public class Inheritance {
 		SalesPerson sp=new SalesPerson();
 		System.out.println(we);
 		System.out.println(sp);
-
+System.out.println("Changes sone by user2");
 	}
 
 }
