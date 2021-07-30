@@ -9,6 +9,7 @@ public class Inheritance {
 		System.out.println(sp);
 System.out.println("Changes sone by user2");
 System.out.println("Done");
+
 	}
 
 }
